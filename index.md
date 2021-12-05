@@ -1,33 +1,61 @@
 # Contents
 
 Welcome to the Standard for Public Code.
+Välkommen till standarden för Offentlig Kod.
 
 We define ‘public code’ as open source software developed by public organizations, together with the policy and guidance needed for reuse.
+Vi definierar ‘offentlig kod’ som öppen programvara utvecklad av offentliga organisationer, tillsammans med de policy och riktlinjer som behövs för återanvändning.
 
 The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by similar public organizations in other places. It includes guidance for policy makers, city administrators, developers and vendors.
+Standarden för Offentlig Kod ger offentliga organisationer en modell för att skapa öppen programvara som möjliggör framtida återanvändning av andra offentliga organisationer med motsvarande behov. Detta inkluderar vägledning för policymakare, tjänstemän, utvecklare och leverantörer.
 
 * [Introduction and background](introduction.md)
+* [Introduktion och bakgrund](introduction.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
+* [Läsanvisning: hur du bör tolka denna standard](readers-guide.md)
 * [Glossary](glossary.md)
+* [Ordlista](glossary.md)
 * [Criteria](criteria/)
+* [Kriterier](criteria/)
   * [Code in the open](criteria/code-in-the-open.md)
+  * [Kod i det öppna](criteria/code-in-the-open.md)
   * [Bundle policy and source code](criteria/bundle-policy-and-code.md)
+  * [Packetering avd policy och källkod](criteria/bundle-policy-and-code.md)
   * [Create reusable and portable code](criteria/reusable-and-portable-codebases.md)
+  * [Skapa återanvändbar och portabel kod](criteria/reusable-and-portable-codebases.md)
   * [Welcome contributors](criteria/open-to-contributions.md)
+  * [Välkomna bidragare](criteria/open-to-contributions.md)
   * [Make contributing easy](criteria/make-contributing-easy.md)
+  * [Gör bidragsprocessen enkel](criteria/make-contributing-easy.md)
   * [Maintain version control](criteria/version-control-and-history.md)
+  * [Bibehåll versionskontroll](criteria/version-control-and-history.md)
   * [Require review of contributions](criteria/require-review.md)
+  * [Kräv granskning av bidrag](criteria/require-review.md)
   * [Document codebase objectives](criteria/document-objectives.md)
+  * [Dokumentera kodbasens mål](criteria/document-objectives.md)
   * [Document the code](criteria/documenting.md)
+  * [Dokumentera koden](criteria/documenting.md)
   * [Use plain English](criteria/understandable-english-first.md)
+  * [Använd enkelt språk](criteria/understandable-english-first.md)
   * [Use open standards](criteria/open-standards.md)
+  * [Använd öppna standarder](criteria/open-standards.md)
   * [Use continuous integration](criteria/continuous-integration.md)
+  * [Använd continuous integration](criteria/continuous-integration.md)
   * [Publish with an open license](criteria/open-licenses.md)
+  * [Publicera med en öppen licens](criteria/open-licenses.md)
   * [Use a coherent style](criteria/style.md)
+  * [Använd en genomgående stil](criteria/style.md)
   * [Document codebase maturity](criteria/document-maturity.md)
+  * [Dokumentera kodbasens mognad](criteria/document-maturity.md)
 * [Authors](AUTHORS.md)
+* [Författare](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
+* [Riktlinjer för bidrag](CONTRIBUTING.md)
 * [Code of conduct](CODE_OF_CONDUCT.md)
+* [Uppförandekod](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
+* [Styrning](GOVERNANCE.md)
 * [Version history](CHANGELOG.md)
+* [Versionshistorik](CHANGELOG.md)
 * [License](LICENSE.md)
+* [Licens](LICENSE.md)
