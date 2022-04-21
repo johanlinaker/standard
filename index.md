@@ -1,7 +1,7 @@
 # Contents
 
 Welcome to the Standard for Public Code.
-Välkommen till standarden för Offentlig Kod.
+Välkommen till Standarden för Offentlig Kod.
 
 We define ‘public code’ as open source software developed by public organizations, together with the policy and guidance needed for reuse.
 Vi definierar ‘offentlig kod’ som öppen programvara utvecklad av offentliga organisationer, tillsammans med de policy och riktlinjer som behövs för återanvändning.
@@ -18,13 +18,13 @@ Standarden för Offentlig Kod ger offentliga organisationer en modell för att s
 * [Criteria](criteria/)
 * [Kriterier](criteria/)
   * [Code in the open](criteria/code-in-the-open.md)
-  * [Kod i det öppna](criteria/code-in-the-open.md)
+  * [Koda i det öppna](criteria/code-in-the-open.md)
   * [Bundle policy and source code](criteria/bundle-policy-and-code.md)
-  * [Packetering avd policy och källkod](criteria/bundle-policy-and-code.md)
+  * [Packetera policy och källkod](criteria/bundle-policy-and-code.md)
   * [Create reusable and portable code](criteria/reusable-and-portable-codebases.md)
   * [Skapa återanvändbar och portabel kod](criteria/reusable-and-portable-codebases.md)
   * [Welcome contributors](criteria/open-to-contributions.md)
-  * [Välkomna bidragare](criteria/open-to-contributions.md)
+  * [Välkomna bidragsgivare](criteria/open-to-contributions.md)
   * [Make contributing easy](criteria/make-contributing-easy.md)
   * [Gör bidragsprocessen enkel](criteria/make-contributing-easy.md)
   * [Maintain version control](criteria/version-control-and-history.md)
@@ -36,7 +36,7 @@ Standarden för Offentlig Kod ger offentliga organisationer en modell för att s
   * [Document the code](criteria/documenting.md)
   * [Dokumentera koden](criteria/documenting.md)
   * [Use plain English](criteria/understandable-english-first.md)
-  * [Använd enkelt språk](criteria/understandable-english-first.md)
+  * [Använd enkel engelska](criteria/understandable-english-first.md)
   * [Use open standards](criteria/open-standards.md)
   * [Använd öppna standarder](criteria/open-standards.md)
   * [Use continuous integration](criteria/continuous-integration.md)
